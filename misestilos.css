@@ -1,0 +1,19 @@
+body {
+  font: 1em sans-serif;
+  background-color: mediumaquamarine;
+}
+header {
+  background-color: mediumturquoise;
+}
+nav {
+  background-color: mediumspringgreen;
+}
+section {
+  background-color: aqua;
+}
+aside {
+  background-color: magenta;
+}
+footer {
+  background-color: lightblue;
+}
